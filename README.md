@@ -1,2 +1,2 @@
 # Amazon-clone
-This project is build using HTML,CSS
+This Website is build using HTML,CSS
